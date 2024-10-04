@@ -14,7 +14,7 @@ font-weight: bold;
 }
 .card{
     display: flex;
-    
+
 }
 .header{
     padding-left: 25%;
@@ -22,11 +22,11 @@ font-weight: bold;
 }
 
 
-@media screen (min-width:0px to 425px) {
+@media screen and (min-width:425px) {
     
 }
 
-@media screen (min-width:426px to 768px) {
+@media screen (min-width:768px) {
     
     .card{
         
